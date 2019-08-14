@@ -1,0 +1,48 @@
+.square{
+  border: 3px solid gray;
+  padding:0px;
+  margin:0px;
+  text-align:center;
+
+}
+
+.card-title{
+text-align:center;
+font-size: 1.2rem;
+}
+
+.cards {
+   display: flex;
+   justify-content: space-between;
+}
+
+#header{
+  background: url("images/header.jpg") center center / cover no-repeat;
+  font-family: 'Lexend Deca', sans-serif;
+
+}
+
+.title{
+  font-size: 4rem;
+  color: #4d4d4d;
+}
+
+.shop{
+  margin-bottom:10px;
+}
+
+.navbar{
+  margin-bottom:10px;
+}
+
+.title{
+
+}
+
+.social{
+  
+}
+
+#filter{
+ 
+}
